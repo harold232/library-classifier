@@ -1,0 +1,220 @@
+{
+  "Business": [
+
+    {
+      "folder": "Business/Management",
+      "priority": 100,
+      "keywords": [
+        "management",
+        "business management",
+        "administration",
+        "administracion",
+        "gestión",
+        "gestion",
+        "organizational behavior",
+        "leadership",
+        "strategic management",
+        "operations management",
+        "project management",
+        "decision making",
+        "organizational theory"
+      ],
+      "authors": [
+        "drucker",
+        "mintzberg",
+        "porter",
+        "robbins",
+        "koontz"
+      ]
+    },
+
+    {
+      "folder": "Business/Economics",
+      "priority": 100,
+      "keywords": [
+        "economics",
+        "economia",
+        "microeconomics",
+        "macroeconomics",
+        "economic theory",
+        "economic development",
+        "inflation",
+        "gdp",
+        "supply",
+        "demand",
+        "market economy"
+      ],
+      "authors": [
+        "mankiw",
+        "krugman",
+        "samuelson",
+        "varian",
+        "blanchard"
+      ]
+    },
+
+    {
+      "folder": "Business/Finance",
+      "priority": 100,
+      "keywords": [
+        "finance",
+        "financial",
+        "financial management",
+        "corporate finance",
+        "investment",
+        "investments",
+        "stock market",
+        "portfolio",
+        "valuation",
+        "accounting",
+        "financial analysis",
+        "cash flow"
+      ],
+      "authors": [
+        "ross",
+        "brealey",
+        "myers",
+        "damodaran",
+        "graham"
+      ]
+    },
+
+    {
+      "folder": "Business/Accounting",
+      "priority": 95,
+      "keywords": [
+        "accounting",
+        "financial accounting",
+        "managerial accounting",
+        "cost accounting",
+        "bookkeeping",
+        "balance sheet",
+        "income statement"
+      ],
+      "authors": [
+        "kieso",
+        "weygandt",
+        "horngren"
+      ]
+    },
+
+    {
+      "folder": "Business/Marketing",
+      "priority": 100,
+      "keywords": [
+        "marketing",
+        "digital marketing",
+        "brand",
+        "branding",
+        "consumer behavior",
+        "market research",
+        "advertising",
+        "seo",
+        "sem",
+        "content marketing",
+        "social media marketing"
+      ],
+      "authors": [
+        "kotler",
+        "keller",
+        "seth godin"
+      ]
+    },
+
+    {
+      "folder": "Business/Entrepreneurship",
+      "priority": 95,
+      "keywords": [
+        "entrepreneurship",
+        "startup",
+        "startups",
+        "lean startup",
+        "business model",
+        "business plan",
+        "innovation",
+        "venture capital"
+      ],
+      "authors": [
+        "eric ries",
+        "steve blank",
+        "ash maurya"
+      ]
+    },
+
+    {
+      "folder": "Business/Product Management",
+      "priority": 95,
+      "keywords": [
+        "product management",
+        "product manager",
+        "product strategy",
+        "roadmap",
+        "product development",
+        "customer discovery",
+        "product analytics"
+      ],
+      "authors": [
+        "cagan",
+        "torres"
+      ]
+    },
+
+    {
+      "folder": "Business/Human Resources",
+      "priority": 90,
+      "keywords": [
+        "human resources",
+        "hr",
+        "talent management",
+        "recruitment",
+        "organizational culture",
+        "performance evaluation"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Business/Operations Research",
+      "priority": 95,
+      "keywords": [
+        "operations research",
+        "operations research methods",
+        "linear programming",
+        "optimization",
+        "simulation",
+        "decision analysis",
+        "queueing theory"
+      ],
+      "authors": [
+        "hillier",
+        "lieberman",
+        "taha"
+      ]
+    },
+
+    {
+      "folder": "Business/Personal Development",
+      "priority": 85,
+      "keywords": [
+        "productivity",
+        "time management",
+        "habits",
+        "communication",
+        "negotiation",
+        "leadership skills",
+        "soft skills",
+        "psychology of money",
+        "atomic habits",
+        "deep work"
+      ],
+      "authors": [
+        "james clear",
+        "cal newport",
+        "morgan housel",
+        "dale carnegie",
+        "stephen covey"
+      ]
+    }
+
+  ]
+}

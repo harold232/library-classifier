@@ -1,0 +1,193 @@
+{
+  "Science": [
+
+    {
+      "folder": "Science/Physics",
+      "priority": 100,
+      "keywords": [
+        "physics",
+        "general physics",
+        "engineering physics",
+        "mechanics",
+        "classical mechanics",
+        "kinematics",
+        "dynamics",
+        "thermodynamics",
+        "electromagnetism",
+        "electricity",
+        "magnetism",
+        "waves",
+        "optics",
+        "modern physics",
+        "quantum physics",
+        "relativity"
+      ],
+      "authors": [
+        "halliday",
+        "resnick",
+        "walker",
+        "serway",
+        "jewett",
+        "tipler",
+        "feynman",
+        "young",
+        "freedman"
+      ]
+    },
+
+    {
+      "folder": "Science/Chemistry",
+      "priority": 100,
+      "keywords": [
+        "chemistry",
+        "general chemistry",
+        "organic chemistry",
+        "inorganic chemistry",
+        "analytical chemistry",
+        "chemical bonding",
+        "stoichiometry",
+        "chemical equilibrium",
+        "acid",
+        "base",
+        "electrochemistry"
+      ],
+      "authors": [
+        "chang",
+        "brown",
+        "zumdahl",
+        "petrucci"
+      ]
+    },
+
+    {
+      "folder": "Science/Electronics",
+      "priority": 100,
+      "keywords": [
+        "electronics",
+        "electronic circuits",
+        "analog electronics",
+        "digital electronics",
+        "semiconductor",
+        "transistor",
+        "diode",
+        "operational amplifier",
+        "op amp",
+        "circuit analysis"
+      ],
+      "authors": [
+        "sedra",
+        "smith",
+        "boylestad",
+        "nashelsky"
+      ]
+    },
+
+    {
+      "folder": "Science/Digital Systems",
+      "priority": 105,
+      "keywords": [
+        "digital systems",
+        "digital design",
+        "digital logic",
+        "logic design",
+        "logic circuits",
+        "boolean logic",
+        "boolean algebra",
+        "flip flop",
+        "multiplexer",
+        "demultiplexer",
+        "register",
+        "counter",
+        "fsm",
+        "finite state machine",
+        "verilog",
+        "vhdl"
+      ],
+      "authors": [
+        "mano",
+        "ciletti",
+        "wakerly"
+      ]
+    },
+
+    {
+      "folder": "Science/Signals and Systems",
+      "priority": 95,
+      "keywords": [
+        "signals",
+        "signals and systems",
+        "signal processing",
+        "digital signal processing",
+        "dsp",
+        "fourier",
+        "laplace",
+        "z transform"
+      ],
+      "authors": [
+        "oppenheim",
+        "willsky",
+        "haykin"
+      ]
+    },
+
+    {
+      "folder": "Science/Control Systems",
+      "priority": 95,
+      "keywords": [
+        "control systems",
+        "automatic control",
+        "feedback control",
+        "pid",
+        "state space",
+        "control engineering"
+      ],
+      "authors": [
+        "ogata",
+        "dorf",
+        "nise"
+      ]
+    },
+
+    {
+      "folder": "Science/Telecommunications",
+      "priority": 90,
+      "keywords": [
+        "telecommunications",
+        "communication systems",
+        "wireless communications",
+        "digital communications",
+        "mobile communications",
+        "rf",
+        "radio frequency"
+      ],
+      "authors": [
+        "haykin",
+        "proakis",
+        "sklar"
+      ]
+    },
+
+    {
+      "folder": "Science/Embedded Systems",
+      "priority": 95,
+      "keywords": [
+        "embedded systems",
+        "embedded programming",
+        "microcontroller",
+        "microcontrollers",
+        "arduino",
+        "raspberry pi",
+        "avr",
+        "pic",
+        "stm32",
+        "arm cortex",
+        "embedded c"
+      ],
+      "authors": [
+        "mazidi",
+        "valvano"
+      ]
+    }
+
+  ]
+}

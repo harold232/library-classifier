@@ -1,0 +1,346 @@
+{
+  "Programming": [
+
+    {
+      "folder": "Programming/General",
+      "priority": 100,
+      "keywords": [
+        "programming",
+        "programmer",
+        "coding",
+        "software development",
+        "problem solving",
+        "program design",
+        "imperative programming",
+        "object oriented programming",
+        "oop",
+        "functional programming",
+        "procedural programming"
+      ],
+      "authors": [
+        "deitel",
+        "deitel & deitel",
+        "brookshear",
+        "beekman"
+      ]
+    },
+
+    {
+      "folder": "Programming/C",
+      "priority": 100,
+      "keywords": [
+        "programming in c",
+        "ansi c",
+        "c language",
+        "c programming",
+        "iso c"
+      ],
+      "authors": [
+        "kernighan",
+        "ritchie",
+        "king",
+        "kochan"
+      ]
+    },
+
+    {
+      "folder": "Programming/C++",
+      "priority": 100,
+      "keywords": [
+        "c++",
+        "cpp",
+        "modern c++",
+        "effective c++",
+        "effective modern c++",
+        "stl",
+        "template",
+        "boost"
+      ],
+      "authors": [
+        "bjarne stroustrup",
+        "stroustrup",
+        "meyers",
+        "lippman"
+      ]
+    },
+
+    {
+      "folder": "Programming/CSharp",
+      "priority": 100,
+      "keywords": [
+        "c#",
+        "csharp",
+        ".net",
+        "dotnet",
+        "asp.net",
+        "entity framework",
+        "linq",
+        "blazor"
+      ],
+      "authors": [
+        "troelsen",
+        "nagel",
+        "albahari"
+      ]
+    },
+
+    {
+      "folder": "Programming/Java",
+      "priority": 100,
+      "keywords": [
+        "java",
+        "effective java",
+        "java programming",
+        "jvm",
+        "java se",
+        "java ee",
+        "jakarta ee"
+      ],
+      "authors": [
+        "bloch",
+        "horstmann",
+        "schildt",
+        "deitel"
+      ]
+    },
+
+    {
+      "folder": "Programming/Python",
+      "priority": 100,
+      "keywords": [
+        "python",
+        "python programming",
+        "python cookbook",
+        "fluent python",
+        "effective python",
+        "python crash course"
+      ],
+      "authors": [
+        "lutz",
+        "beazley",
+        "ramalho",
+        "slatkin"
+      ]
+    },
+
+    {
+      "folder": "Programming/JavaScript",
+      "priority": 100,
+      "keywords": [
+        "javascript",
+        "ecmascript",
+        "es6",
+        "es2015",
+        "node.js",
+        "nodejs"
+      ],
+      "authors": [
+        "flanagan",
+        "simpson"
+      ]
+    },
+
+    {
+      "folder": "Programming/TypeScript",
+      "priority": 100,
+      "keywords": [
+        "typescript",
+        "ts"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Go",
+      "priority": 100,
+      "keywords": [
+        "golang",
+        "go programming",
+        "go language"
+      ],
+      "authors": [
+        "donovan",
+        "kernighan"
+      ]
+    },
+
+    {
+      "folder": "Programming/Rust",
+      "priority": 100,
+      "keywords": [
+        "rust",
+        "rust programming",
+        "cargo",
+        "ownership",
+        "borrow checker"
+      ],
+      "authors": [
+        "klabnik",
+        "nichols"
+      ]
+    },
+
+    {
+      "folder": "Programming/Kotlin",
+      "priority": 100,
+      "keywords": [
+        "kotlin",
+        "android kotlin"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/PHP",
+      "priority": 100,
+      "keywords": [
+        "php",
+        "php8",
+        "laravel",
+        "symfony"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Web Development",
+      "priority": 95,
+      "keywords": [
+        "html",
+        "css",
+        "html5",
+        "css3",
+        "bootstrap",
+        "tailwind",
+        "responsive web",
+        "frontend",
+        "backend",
+        "fullstack",
+        "web application",
+        "web programming"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/JavaScript Frameworks",
+      "priority": 95,
+      "keywords": [
+        "react",
+        "reactjs",
+        "angular",
+        "vue",
+        "vuejs",
+        "next.js",
+        "nextjs",
+        "nuxt",
+        "svelte",
+        "redux"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Python Frameworks",
+      "priority": 95,
+      "keywords": [
+        "django",
+        "flask",
+        "fastapi",
+        "pyramid"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Java Frameworks",
+      "priority": 95,
+      "keywords": [
+        "spring",
+        "spring boot",
+        "hibernate",
+        "maven",
+        "gradle"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/.NET",
+      "priority": 95,
+      "keywords": [
+        "asp.net core",
+        ".net core",
+        ".net 5",
+        ".net 6",
+        ".net 7",
+        ".net 8",
+        "xamarin",
+        "maui"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Mobile Development",
+      "priority": 95,
+      "keywords": [
+        "android",
+        "ios",
+        "swift",
+        "swiftui",
+        "flutter",
+        "react native",
+        "mobile development"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Game Development",
+      "priority": 95,
+      "keywords": [
+        "unity",
+        "unreal",
+        "game programming",
+        "game engine",
+        "godot"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/APIs",
+      "priority": 95,
+      "keywords": [
+        "rest",
+        "restful",
+        "graphql",
+        "soap",
+        "openapi",
+        "swagger",
+        "api design"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Programming/Linux Programming",
+      "priority": 95,
+      "keywords": [
+        "linux programming",
+        "unix programming",
+        "posix",
+        "bash",
+        "shell scripting",
+        "shell programming",
+        "zsh"
+      ],
+      "authors": [
+        "stevens",
+        "rochkind"
+      ]
+    }
+
+  ]
+}

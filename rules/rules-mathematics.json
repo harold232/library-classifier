@@ -1,0 +1,238 @@
+{
+  "Mathematics": [
+
+    {
+      "folder": "Mathematics/General",
+      "priority": 100,
+      "keywords": [
+        "mathematics",
+        "mathematical",
+        "engineering mathematics",
+        "advanced engineering mathematics",
+        "engineering math",
+        "college mathematics"
+      ],
+      "authors": [
+        "kreyszig",
+        "stroud",
+        "thomas"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Discrete Mathematics",
+      "priority": 110,
+      "keywords": [
+        "discrete mathematics",
+        "discrete math",
+        "logic",
+        "propositional logic",
+        "predicate logic",
+        "proof",
+        "proof techniques",
+        "set theory",
+        "relations",
+        "functions",
+        "recurrence",
+        "combinatorics",
+        "graph theory",
+        "boolean algebra"
+      ],
+      "authors": [
+        "rosen",
+        "epp",
+        "grimaldi"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Linear Algebra",
+      "priority": 110,
+      "keywords": [
+        "linear algebra",
+        "matrix",
+        "matrices",
+        "vector",
+        "vector space",
+        "eigenvalue",
+        "eigenvector",
+        "orthogonality",
+        "determinant",
+        "gaussian elimination"
+      ],
+      "authors": [
+        "strang",
+        "lay",
+        "anton",
+        "friedberg"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Calculus",
+      "priority": 110,
+      "keywords": [
+        "calculus",
+        "differential calculus",
+        "integral calculus",
+        "multivariable calculus",
+        "vector calculus",
+        "limits",
+        "derivatives",
+        "integration",
+        "partial derivatives",
+        "multiple integrals"
+      ],
+      "authors": [
+        "stewart",
+        "thomas",
+        "larson",
+        "apostol"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Probability",
+      "priority": 105,
+      "keywords": [
+        "probability",
+        "probability theory",
+        "random variable",
+        "random variables",
+        "stochastic",
+        "probabilistic",
+        "markov chain",
+        "bayes theorem",
+        "bayesian"
+      ],
+      "authors": [
+        "ross",
+        "bertsekas",
+        "papoulis"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Statistics",
+      "priority": 105,
+      "keywords": [
+        "statistics",
+        "statistical",
+        "inferential statistics",
+        "descriptive statistics",
+        "sampling",
+        "confidence interval",
+        "hypothesis testing",
+        "anova",
+        "regression analysis",
+        "statistical inference"
+      ],
+      "authors": [
+        "montgomery",
+        "devore",
+        "casella",
+        "berger"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Numerical Methods",
+      "priority": 100,
+      "keywords": [
+        "numerical methods",
+        "numerical analysis",
+        "scientific computing",
+        "newton method",
+        "interpolation",
+        "finite difference",
+        "root finding"
+      ],
+      "authors": [
+        "burden",
+        "faires",
+        "chapra"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Optimization",
+      "priority": 100,
+      "keywords": [
+        "optimization",
+        "linear programming",
+        "integer programming",
+        "convex optimization",
+        "nonlinear optimization",
+        "simplex",
+        "lagrange multiplier"
+      ],
+      "authors": [
+        "boyd",
+        "nocedal",
+        "bertsekas"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Geometry",
+      "priority": 95,
+      "keywords": [
+        "geometry",
+        "analytic geometry",
+        "coordinate geometry",
+        "euclidean geometry",
+        "solid geometry"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Mathematics/Trigonometry",
+      "priority": 95,
+      "keywords": [
+        "trigonometry",
+        "trigonometric",
+        "trigonometric identities",
+        "sine",
+        "cosine",
+        "tangent"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Mathematics/Algebra",
+      "priority": 100,
+      "keywords": [
+        "algebra",
+        "elementary algebra",
+        "abstract algebra",
+        "group theory",
+        "ring theory",
+        "field theory",
+        "polynomial",
+        "equations"
+      ],
+      "authors": [
+        "herstein",
+        "fraleigh"
+      ]
+    },
+
+    {
+      "folder": "Mathematics/Mathematical Logic",
+      "priority": 95,
+      "keywords": [
+        "mathematical logic",
+        "formal logic",
+        "symbolic logic",
+        "first order logic",
+        "model theory"
+      ],
+      "authors": [
+        "enderton"
+      ]
+    }
+
+  ]
+}

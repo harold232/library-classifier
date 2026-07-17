@@ -1,0 +1,201 @@
+{
+  "Artificial Intelligence": [
+
+    {
+      "folder": "Artificial Intelligence/Artificial Intelligence",
+      "priority": 100,
+      "keywords": [
+        "artificial intelligence",
+        "artificial intelligence a modern approach",
+        "intelligent systems",
+        "intelligent agents",
+        "knowledge representation",
+        "reasoning",
+        "planning",
+        "expert systems",
+        "search in ai"
+      ],
+      "authors": [
+        "russell",
+        "norvig",
+        "nilsson",
+        "poole",
+        "mackworth"
+      ]
+    },
+
+    {
+      "folder": "Artificial Intelligence/Machine Learning",
+      "priority": 100,
+      "keywords": [
+        "machine learning",
+        "ml",
+        "supervised learning",
+        "unsupervised learning",
+        "reinforcement learning",
+        "classification",
+        "regression",
+        "decision tree",
+        "random forest",
+        "svm",
+        "support vector machine",
+        "knn",
+        "naive bayes",
+        "ensemble learning",
+        "feature engineering",
+        "cross validation",
+        "bias variance"
+      ],
+      "authors": [
+        "bishop",
+        "murphy",
+        "hastie",
+        "tibshirani",
+        "friedman",
+        "raschka",
+        "geron",
+        "mitchell"
+      ]
+    },
+
+    {
+      "folder": "Artificial Intelligence/Deep Learning",
+      "priority": 110,
+      "keywords": [
+        "deep learning",
+        "neural network",
+        "neural networks",
+        "cnn",
+        "convolutional neural network",
+        "rnn",
+        "lstm",
+        "gru",
+        "autoencoder",
+        "gan",
+        "transformer",
+        "attention mechanism",
+        "backpropagation",
+        "dropout",
+        "batch normalization",
+        "gradient descent"
+      ],
+      "authors": [
+        "goodfellow",
+        "bengio",
+        "courville",
+        "chollet",
+        "francois chollet"
+      ]
+    },
+
+    {
+      "folder": "Artificial Intelligence/Natural Language Processing",
+      "priority": 105,
+      "keywords": [
+        "natural language processing",
+        "nlp",
+        "text mining",
+        "text classification",
+        "tokenization",
+        "word embedding",
+        "word2vec",
+        "glove",
+        "bert",
+        "gpt",
+        "llm",
+        "large language model",
+        "language model",
+        "prompt engineering",
+        "retrieval augmented generation",
+        "rag"
+      ],
+      "authors": [
+        "jurafsky",
+        "martin",
+        "eisenstein"
+      ]
+    },
+
+    {
+      "folder": "Artificial Intelligence/Computer Vision",
+      "priority": 105,
+      "keywords": [
+        "computer vision",
+        "opencv",
+        "image processing",
+        "image recognition",
+        "image classification",
+        "object detection",
+        "yolo",
+        "rcnn",
+        "segmentation",
+        "face recognition",
+        "vision transformer"
+      ],
+      "authors": [
+        "szeliski",
+        "bradski"
+      ]
+    },
+
+    {
+      "folder": "Artificial Intelligence/Reinforcement Learning",
+      "priority": 105,
+      "keywords": [
+        "reinforcement learning",
+        "markov decision process",
+        "mdp",
+        "policy gradient",
+        "q learning",
+        "deep q network",
+        "actor critic",
+        "monte carlo methods",
+        "temporal difference"
+      ],
+      "authors": [
+        "sutton",
+        "barto"
+      ]
+    },
+
+    {
+      "folder": "Artificial Intelligence/Generative AI",
+      "priority": 110,
+      "keywords": [
+        "generative ai",
+        "foundation model",
+        "chatgpt",
+        "gpt-4",
+        "gpt-5",
+        "copilot",
+        "claude",
+        "gemini",
+        "llama",
+        "mistral",
+        "diffusion",
+        "stable diffusion",
+        "midjourney",
+        "multimodal"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Artificial Intelligence/MLOps",
+      "priority": 100,
+      "keywords": [
+        "mlops",
+        "model deployment",
+        "model serving",
+        "feature store",
+        "ml pipeline",
+        "kubeflow",
+        "mlflow",
+        "airflow",
+        "model monitoring"
+      ],
+      "authors": []
+    }
+
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "Computer Science": [
+    {
+      "folder": "Computer Science/Algorithms",
+      "priority": 100,
+      "keywords": [
+        "algorithm",
+        "algorithms",
+        "algorithm design",
+        "algorithm analysis",
+        "algorithmic",
+        "greedy",
+        "divide and conquer",
+        "dynamic programming",
+        "backtracking",
+        "branch and bound",
+        "graph algorithm",
+        "graph algorithms",
+        "shortest path",
+        "minimum spanning tree",
+        "maximum flow",
+        "topological sort",
+        "sorting",
+        "searching",
+        "binary search",
+        "computational geometry",
+        "string matching",
+        "suffix array",
+        "suffix tree",
+        "fft",
+        "recursion",
+        "recurrence",
+        "approximation algorithms"
+      ],
+      "authors": [
+        "cormen",
+        "clrs",
+        "skiena",
+        "sedgewick",
+        "knuth",
+        "kleinberg",
+        "tardos",
+        "dasgupta",
+        "jeff erickson",
+        "bhargava"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Data Structures",
+      "priority": 100,
+      "keywords": [
+        "data structure",
+        "data structures",
+        "linked list",
+        "stack",
+        "queue",
+        "heap",
+        "priority queue",
+        "hash table",
+        "hashmap",
+        "tree",
+        "binary tree",
+        "binary search tree",
+        "bst",
+        "avl",
+        "red black tree",
+        "b-tree",
+        "trie",
+        "segment tree",
+        "fenwick tree",
+        "union find",
+        "disjoint set"
+      ],
+      "authors": [
+        "goodrich",
+        "tamassia",
+        "weiss",
+        "lafore",
+        "horowitz",
+        "sahni"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Operating Systems",
+      "priority": 100,
+      "keywords": [
+        "operating system",
+        "operating systems",
+        "os concepts",
+        "process",
+        "thread",
+        "synchronization",
+        "mutex",
+        "semaphore",
+        "deadlock",
+        "virtual memory",
+        "paging",
+        "segmentation",
+        "kernel",
+        "linux kernel",
+        "scheduler",
+        "filesystem",
+        "ipc"
+      ],
+      "authors": [
+        "silberschatz",
+        "stallings",
+        "tanenbaum",
+        "love",
+        "bovet"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Computer Networks",
+      "priority": 100,
+      "keywords": [
+        "computer network",
+        "computer networks",
+        "network",
+        "networking",
+        "tcp",
+        "udp",
+        "http",
+        "https",
+        "socket",
+        "routing",
+        "switching",
+        "ethernet",
+        "dns",
+        "dhcp",
+        "ipv4",
+        "ipv6",
+        "wireless",
+        "wifi",
+        "osi",
+        "tcp/ip"
+      ],
+      "authors": [
+        "kurose",
+        "ross",
+        "forouzan",
+        "tanenbaum"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Database Systems",
+      "priority": 100,
+      "keywords": [
+        "database",
+        "databases",
+        "database systems",
+        "sql",
+        "nosql",
+        "postgres",
+        "mysql",
+        "oracle",
+        "mongodb",
+        "normalization",
+        "er model",
+        "entity relationship",
+        "transaction",
+        "acid",
+        "query optimization",
+        "relational database"
+      ],
+      "authors": [
+        "elmasri",
+        "navathe",
+        "date",
+        "garcia molina",
+        "ullman",
+        "ramakrishnan",
+        "gehrke"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Computer Architecture",
+      "priority": 95,
+      "keywords": [
+        "computer architecture",
+        "computer organization",
+        "processor",
+        "cpu",
+        "instruction set",
+        "assembly",
+        "assembly language",
+        "pipeline",
+        "cache",
+        "memory hierarchy",
+        "mips",
+        "risc",
+        "cisc"
+      ],
+      "authors": [
+        "patterson",
+        "hennessy",
+        "stallings"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Distributed Systems",
+      "priority": 95,
+      "keywords": [
+        "distributed systems",
+        "distributed computing",
+        "consensus",
+        "raft",
+        "paxos",
+        "microservices",
+        "rpc",
+        "grpc",
+        "message queue",
+        "event driven",
+        "event sourcing",
+        "kafka",
+        "distributed algorithms"
+      ],
+      "authors": [
+        "coulouris",
+        "van steen",
+        "kleppmann"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Parallel Computing",
+      "priority": 95,
+      "keywords": [
+        "parallel programming",
+        "parallel computing",
+        "multicore",
+        "multithreading",
+        "concurrency",
+        "openmp",
+        "mpi",
+        "cuda",
+        "gpu computing"
+      ],
+      "authors": [
+        "quinn",
+        "pacheco"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Theory of Computation",
+      "priority": 95,
+      "keywords": [
+        "theory of computation",
+        "automata",
+        "automata theory",
+        "formal language",
+        "formal languages",
+        "turing machine",
+        "finite automata",
+        "dfa",
+        "nfa",
+        "regular expression",
+        "context free grammar",
+        "pda",
+        "decidability",
+        "complexity theory",
+        "np complete",
+        "np completeness"
+      ],
+      "authors": [
+        "sipser",
+        "hopcroft",
+        "ullman",
+        "kozen"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Compilers",
+      "priority": 95,
+      "keywords": [
+        "compiler",
+        "compilers",
+        "lexer",
+        "lexical analysis",
+        "parser",
+        "syntax analysis",
+        "semantic analysis",
+        "code generation",
+        "optimization",
+        "dragon book"
+      ],
+      "authors": [
+        "aho",
+        "lam",
+        "sethi",
+        "ullman",
+        "appel"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Computer Graphics",
+      "priority": 90,
+      "keywords": [
+        "computer graphics",
+        "graphics",
+        "rendering",
+        "ray tracing",
+        "opengl",
+        "directx",
+        "shader",
+        "animation",
+        "3d graphics"
+      ],
+      "authors": [
+        "foley",
+        "angel",
+        "shirley"
+      ]
+    },
+
+    {
+      "folder": "Computer Science/Human Computer Interaction",
+      "priority": 90,
+      "keywords": [
+        "human computer interaction",
+        "hci",
+        "interaction design",
+        "usability",
+        "user interface",
+        "ux",
+        "ui design"
+      ],
+      "authors": [
+        "norman",
+        "shneiderman",
+        "rogers",
+        "sharp",
+        "reece"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "Data Science": [
+
+    {
+      "folder": "Data Science/Data Science",
+      "priority": 100,
+      "keywords": [
+        "data science",
+        "data scientist",
+        "data analysis",
+        "data analytics",
+        "analytics",
+        "data driven",
+        "predictive analytics",
+        "descriptive analytics",
+        "prescriptive analytics"
+      ],
+      "authors": [
+        "grus",
+        "vanderplas",
+        "provost",
+        "fawcett"
+      ]
+    },
+
+    {
+      "folder": "Data Science/Data Engineering",
+      "priority": 100,
+      "keywords": [
+        "data engineering",
+        "etl",
+        "elt",
+        "data warehouse",
+        "data lake",
+        "lakehouse",
+        "data pipeline",
+        "data ingestion",
+        "data integration",
+        "data architecture"
+      ],
+      "authors": [
+        "reis",
+        "housley"
+      ]
+    },
+
+    {
+      "folder": "Data Science/Big Data",
+      "priority": 105,
+      "keywords": [
+        "big data",
+        "hadoop",
+        "spark",
+        "apache spark",
+        "hdfs",
+        "hive",
+        "pig",
+        "yarn",
+        "mapreduce",
+        "databricks",
+        "distributed data"
+      ],
+      "authors": [
+        "white",
+        "miner"
+      ]
+    },
+
+    {
+      "folder": "Data Science/Data Mining",
+      "priority": 100,
+      "keywords": [
+        "data mining",
+        "knowledge discovery",
+        "association rules",
+        "apriori",
+        "clustering",
+        "kmeans",
+        "hierarchical clustering",
+        "pattern mining"
+      ],
+      "authors": [
+        "han",
+        "kamber",
+        "pei"
+      ]
+    },
+
+    {
+      "folder": "Data Science/Data Visualization",
+      "priority": 95,
+      "keywords": [
+        "data visualization",
+        "visualization",
+        "dashboard",
+        "tableau",
+        "power bi",
+        "matplotlib",
+        "seaborn",
+        "plotly",
+        "ggplot"
+      ],
+      "authors": [
+        "few",
+        "ware"
+      ]
+    },
+
+    {
+      "folder": "Data Science/Statistics",
+      "priority": 95,
+      "keywords": [
+        "statistics",
+        "statistical learning",
+        "statistical inference",
+        "hypothesis testing",
+        "anova",
+        "bayesian statistics",
+        "bayesian inference",
+        "probability distribution",
+        "confidence interval",
+        "sampling"
+      ],
+      "authors": [
+        "casella",
+        "berger",
+        "montgomery",
+        "islr",
+        "eslr"
+      ]
+    },
+
+    {
+      "folder": "Data Science/Business Intelligence",
+      "priority": 95,
+      "keywords": [
+        "business intelligence",
+        "bi",
+        "decision support",
+        "olap",
+        "oltp",
+        "executive dashboard",
+        "reporting"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Data Science/Data Tools",
+      "priority": 95,
+      "keywords": [
+        "pandas",
+        "numpy",
+        "scipy",
+        "jupyter",
+        "colab",
+        "excel analytics",
+        "power query",
+        "power pivot",
+        "apache airflow",
+        "dbt"
+      ],
+      "authors": []
+    }
+
+  ]
+}

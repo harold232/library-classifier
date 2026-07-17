@@ -1,0 +1,324 @@
+{
+  "Software Engineering": [
+
+    {
+      "folder": "Software Engineering/Fundamentals",
+      "priority": 100,
+      "keywords": [
+        "software engineering",
+        "software development",
+        "software lifecycle",
+        "software life cycle",
+        "software process",
+        "software project",
+        "software engineering fundamentals",
+        "swebok"
+      ],
+      "authors": [
+        "pressman",
+        "sommerville",
+        "fairley",
+        "schach",
+        "boehm"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Software Architecture",
+      "priority": 100,
+      "keywords": [
+        "software architecture",
+        "architecture",
+        "clean architecture",
+        "hexagonal architecture",
+        "onion architecture",
+        "microservices",
+        "monolith",
+        "event driven",
+        "event sourcing",
+        "ddd",
+        "domain driven design",
+        "service oriented architecture",
+        "soa",
+        "architecting"
+      ],
+      "authors": [
+        "martin",
+        "richards",
+        "ford",
+        "newman",
+        "evans",
+        "bass",
+        "clements",
+        "kazman"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/System Design",
+      "priority": 100,
+      "keywords": [
+        "system design",
+        "designing data intensive applications",
+        "large scale systems",
+        "distributed architecture",
+        "high availability",
+        "load balancing",
+        "scalability",
+        "fault tolerance",
+        "availability",
+        "consistency",
+        "cap theorem",
+        "caching",
+        "cdn"
+      ],
+      "authors": [
+        "kleppmann",
+        "alex xu",
+        "martin kleppmann"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Requirements Engineering",
+      "priority": 100,
+      "keywords": [
+        "requirements",
+        "software requirements",
+        "requirements engineering",
+        "elicitation",
+        "use cases",
+        "functional requirements",
+        "non functional requirements",
+        "business requirements",
+        "user stories"
+      ],
+      "authors": [
+        "wiegers",
+        "beatty",
+        "cockburn"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/UML",
+      "priority": 95,
+      "keywords": [
+        "uml",
+        "unified modeling language",
+        "modeling",
+        "class diagram",
+        "sequence diagram",
+        "activity diagram",
+        "state diagram",
+        "use case diagram"
+      ],
+      "authors": [
+        "rumbaugh",
+        "jacobson",
+        "booch",
+        "fowler"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Design Patterns",
+      "priority": 100,
+      "keywords": [
+        "design pattern",
+        "design patterns",
+        "gof",
+        "gang of four",
+        "creational",
+        "behavioral",
+        "structural patterns",
+        "patterns of enterprise application architecture"
+      ],
+      "authors": [
+        "gamma",
+        "helm",
+        "johnson",
+        "vlissides",
+        "fowler"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Clean Code",
+      "priority": 100,
+      "keywords": [
+        "clean code",
+        "clean coder",
+        "clean craftsmanship",
+        "code smells",
+        "readable code",
+        "professional programmer"
+      ],
+      "authors": [
+        "robert c martin",
+        "uncle bob",
+        "martin"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Refactoring",
+      "priority": 100,
+      "keywords": [
+        "refactoring",
+        "legacy code",
+        "improving the design of existing code",
+        "working effectively with legacy code",
+        "refactor"
+      ],
+      "authors": [
+        "fowler",
+        "feathers"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Software Testing",
+      "priority": 100,
+      "keywords": [
+        "software testing",
+        "testing",
+        "unit testing",
+        "integration testing",
+        "acceptance testing",
+        "test driven development",
+        "tdd",
+        "bdd",
+        "mock",
+        "junit",
+        "xunit"
+      ],
+      "authors": [
+        "kaner",
+        "myers",
+        "beck",
+        "osherove"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Software Quality",
+      "priority": 95,
+      "keywords": [
+        "software quality",
+        "quality assurance",
+        "qa",
+        "quality control",
+        "metrics",
+        "quality management",
+        "iso 25010"
+      ],
+      "authors": [
+        "humphrey",
+        "crosby",
+        "juran"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Agile",
+      "priority": 95,
+      "keywords": [
+        "agile",
+        "scrum",
+        "kanban",
+        "xp",
+        "extreme programming",
+        "lean software",
+        "product owner",
+        "sprint",
+        "backlog"
+      ],
+      "authors": [
+        "beck",
+        "schwaber",
+        "sutherland",
+        "cohn"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/DevOps",
+      "priority": 95,
+      "keywords": [
+        "devops",
+        "continuous integration",
+        "continuous delivery",
+        "continuous deployment",
+        "ci/cd",
+        "docker",
+        "kubernetes",
+        "terraform",
+        "ansible",
+        "jenkins",
+        "gitops"
+      ],
+      "authors": [
+        "kim",
+        "humble",
+        "farley",
+        "burns"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Project Management",
+      "priority": 90,
+      "keywords": [
+        "project management",
+        "software project management",
+        "pmbok",
+        "risk management",
+        "cost estimation",
+        "planning",
+        "software estimation",
+        "earned value"
+      ],
+      "authors": [
+        "mcconnell",
+        "boehm"
+      ]
+    },
+
+    {
+      "folder": "Software Engineering/Version Control",
+      "priority": 90,
+      "keywords": [
+        "git",
+        "github",
+        "gitlab",
+        "version control",
+        "source control",
+        "mercurial",
+        "svn"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Software Engineering/Best Practices",
+      "priority": 90,
+      "keywords": [
+        "best practices",
+        "code complete",
+        "pragmatic programmer",
+        "mythical man month",
+        "rapid development",
+        "software craftsmanship",
+        "effective software"
+      ],
+      "authors": [
+        "mcconnell",
+        "hunt",
+        "thomas",
+        "brooks"
+      ]
+    }
+
+  ]
+}

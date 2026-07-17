@@ -1,0 +1,246 @@
+{
+  "Cloud & DevOps": [
+
+    {
+      "folder": "Cloud & DevOps/Linux",
+      "priority": 100,
+      "keywords": [
+        "linux",
+        "gnu/linux",
+        "ubuntu",
+        "debian",
+        "fedora",
+        "centos",
+        "red hat",
+        "rhel",
+        "arch linux",
+        "shell",
+        "bash",
+        "zsh",
+        "terminal",
+        "command line",
+        "linux administration",
+        "linux system administration",
+        "unix"
+      ],
+      "authors": [
+        "shotts",
+        "nemeth",
+        "sobell",
+        "ward"
+      ]
+    },
+
+    {
+      "folder": "Cloud & DevOps/Docker",
+      "priority": 110,
+      "keywords": [
+        "docker",
+        "docker compose",
+        "dockerfile",
+        "container",
+        "containers",
+        "containerization",
+        "image",
+        "registry"
+      ],
+      "authors": [
+        "nigel poulton"
+      ]
+    },
+
+    {
+      "folder": "Cloud & DevOps/Kubernetes",
+      "priority": 110,
+      "keywords": [
+        "kubernetes",
+        "k8s",
+        "helm",
+        "kubectl",
+        "cluster",
+        "pod",
+        "deployment",
+        "service mesh",
+        "istio",
+        "ingress"
+      ],
+      "authors": [
+        "hightower",
+        "burns",
+        "beda"
+      ]
+    },
+
+    {
+      "folder": "Cloud & DevOps/Cloud Computing",
+      "priority": 105,
+      "keywords": [
+        "cloud computing",
+        "cloud",
+        "distributed cloud",
+        "serverless",
+        "faas",
+        "iaas",
+        "paas",
+        "saas"
+      ],
+      "authors": [
+        "thomas erl"
+      ]
+    },
+
+    {
+      "folder": "Cloud & DevOps/AWS",
+      "priority": 105,
+      "keywords": [
+        "aws",
+        "amazon web services",
+        "ec2",
+        "s3",
+        "lambda",
+        "cloudformation",
+        "cloudwatch",
+        "iam",
+        "vpc",
+        "route53",
+        "ecs",
+        "eks",
+        "rds"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/Azure",
+      "priority": 105,
+      "keywords": [
+        "azure",
+        "microsoft azure",
+        "azure devops",
+        "azure functions",
+        "azure storage",
+        "azure vm",
+        "azure sql"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/Google Cloud",
+      "priority": 105,
+      "keywords": [
+        "google cloud",
+        "gcp",
+        "cloud run",
+        "cloud functions",
+        "bigquery",
+        "compute engine",
+        "gke"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/DevOps",
+      "priority": 105,
+      "keywords": [
+        "devops",
+        "continuous integration",
+        "continuous delivery",
+        "continuous deployment",
+        "ci/cd",
+        "pipeline",
+        "gitops",
+        "infrastructure as code"
+      ],
+      "authors": [
+        "gene kim",
+        "jez humble",
+        "david farley"
+      ]
+    },
+
+    {
+      "folder": "Cloud & DevOps/Terraform",
+      "priority": 100,
+      "keywords": [
+        "terraform",
+        "hashicorp",
+        "iac",
+        "infrastructure as code"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/Ansible",
+      "priority": 100,
+      "keywords": [
+        "ansible",
+        "playbook",
+        "ansible automation"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/Jenkins",
+      "priority": 100,
+      "keywords": [
+        "jenkins",
+        "jenkins pipeline"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/Git",
+      "priority": 95,
+      "keywords": [
+        "git",
+        "github",
+        "gitlab",
+        "bitbucket",
+        "version control",
+        "source control"
+      ],
+      "authors": [
+        "scott chacon"
+      ]
+    },
+
+    {
+      "folder": "Cloud & DevOps/Virtualization",
+      "priority": 95,
+      "keywords": [
+        "virtualization",
+        "virtual machine",
+        "vmware",
+        "virtualbox",
+        "hyper-v",
+        "hypervisor",
+        "kvm",
+        "xen"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cloud & DevOps/Monitoring",
+      "priority": 95,
+      "keywords": [
+        "prometheus",
+        "grafana",
+        "observability",
+        "logging",
+        "elk",
+        "elastic",
+        "kibana",
+        "logstash",
+        "opentelemetry"
+      ],
+      "authors": []
+    }
+
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "Interview Prep": [
+
+    {
+      "folder": "Interview Prep/LeetCode",
+      "priority": 120,
+      "keywords": [
+        "leetcode",
+        "leet code",
+        "blind 75",
+        "grind 75",
+        "neetcode",
+        "leetcode patterns",
+        "leetcode solutions",
+        "coding interview",
+        "technical interview"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Data Structures",
+      "priority": 110,
+      "keywords": [
+        "data structures interview",
+        "interview data structures",
+        "coding patterns",
+        "linked list interview",
+        "heap interview",
+        "queue interview",
+        "stack interview",
+        "hash table interview"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Algorithms",
+      "priority": 110,
+      "keywords": [
+        "algorithm interview",
+        "algorithms interview",
+        "coding algorithms",
+        "algorithmic interview",
+        "competitive algorithms"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Dynamic Programming",
+      "priority": 115,
+      "keywords": [
+        "dynamic programming",
+        "dp",
+        "memoization",
+        "tabulation"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Graphs",
+      "priority": 115,
+      "keywords": [
+        "graph",
+        "graphs",
+        "dfs",
+        "bfs",
+        "dijkstra",
+        "bellman ford",
+        "floyd warshall",
+        "topological sort",
+        "union find"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Trees",
+      "priority": 115,
+      "keywords": [
+        "tree",
+        "trees",
+        "binary tree",
+        "binary search tree",
+        "bst",
+        "avl",
+        "segment tree",
+        "fenwick tree",
+        "trie"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Backtracking",
+      "priority": 115,
+      "keywords": [
+        "backtracking",
+        "n queens",
+        "permutations",
+        "combinations",
+        "subsets"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Greedy",
+      "priority": 115,
+      "keywords": [
+        "greedy",
+        "greedy algorithm",
+        "activity selection",
+        "interval scheduling"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Binary Search",
+      "priority": 115,
+      "keywords": [
+        "binary search",
+        "lower bound",
+        "upper bound"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Sliding Window",
+      "priority": 115,
+      "keywords": [
+        "sliding window",
+        "two pointers",
+        "fast slow pointer"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Bit Manipulation",
+      "priority": 115,
+      "keywords": [
+        "bit manipulation",
+        "bitmask",
+        "xor",
+        "bitwise"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/System Design",
+      "priority": 120,
+      "keywords": [
+        "system design interview",
+        "system design",
+        "designing data intensive applications",
+        "scalable systems",
+        "high scalability",
+        "distributed system interview",
+        "system design primer"
+      ],
+      "authors": [
+        "alex xu",
+        "martin kleppmann"
+      ]
+    },
+
+    {
+      "folder": "Interview Prep/Behavioral",
+      "priority": 100,
+      "keywords": [
+        "behavioral interview",
+        "leadership principles",
+        "star method",
+        "soft skills interview",
+        "amazon leadership principles"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Interview Prep/Competitive Programming",
+      "priority": 110,
+      "keywords": [
+        "competitive programming",
+        "competitive programmer",
+        "acm icpc",
+        "icpc",
+        "codeforces",
+        "atcoder",
+        "uva",
+        "online judge",
+        "programming contests"
+      ],
+      "authors": [
+        "steven halim",
+        "felix halim"
+      ]
+    },
+
+    {
+      "folder": "Interview Prep/Classics",
+      "priority": 125,
+      "keywords": [
+        "cracking the coding interview",
+        "elements of programming interviews",
+        "programming interviews exposed",
+        "grokking coding interview",
+        "ace the programming interview"
+      ],
+      "authors": [
+        "gayle laakmann",
+        "adnan aziz"
+      ]
+    }
+
+  ]
+}

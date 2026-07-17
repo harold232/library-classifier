@@ -1,0 +1,232 @@
+{
+  "Cybersecurity": [
+
+    {
+      "folder": "Cybersecurity/Fundamentals",
+      "priority": 100,
+      "keywords": [
+        "cybersecurity",
+        "computer security",
+        "information security",
+        "security engineering",
+        "security fundamentals",
+        "cyber defense",
+        "cyber defence"
+      ],
+      "authors": [
+        "ross anderson",
+        "william stallings",
+        "charlie kaufman"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Ethical Hacking",
+      "priority": 110,
+      "keywords": [
+        "ethical hacking",
+        "hacking",
+        "hack",
+        "penetration testing",
+        "pentest",
+        "red team",
+        "bug bounty",
+        "exploit",
+        "exploitation",
+        "metasploit",
+        "kali linux",
+        "parrot os"
+      ],
+      "authors": [
+        "occupytheweb",
+        "jon erickson",
+        "kevin mitnick"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Web Security",
+      "priority": 110,
+      "keywords": [
+        "web security",
+        "owasp",
+        "xss",
+        "csrf",
+        "sql injection",
+        "command injection",
+        "directory traversal",
+        "broken authentication",
+        "idor",
+        "secure coding",
+        "web hacking",
+        "burp suite"
+      ],
+      "authors": [
+        "dafydd stuttard",
+        "marcus pinto"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Network Security",
+      "priority": 105,
+      "keywords": [
+        "network security",
+        "firewall",
+        "vpn",
+        "ids",
+        "ips",
+        "snort",
+        "wireshark",
+        "packet analysis",
+        "tls",
+        "ssl",
+        "ipsec"
+      ],
+      "authors": [
+        "stallings"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Cryptography",
+      "priority": 105,
+      "keywords": [
+        "cryptography",
+        "crypto",
+        "cryptographic",
+        "encryption",
+        "decryption",
+        "rsa",
+        "aes",
+        "des",
+        "ecc",
+        "elliptic curve",
+        "hash",
+        "sha",
+        "md5",
+        "digital signature",
+        "public key",
+        "private key"
+      ],
+      "authors": [
+        "schneier",
+        "ferguson",
+        "kaufman"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Digital Forensics",
+      "priority": 100,
+      "keywords": [
+        "digital forensics",
+        "computer forensics",
+        "forensic analysis",
+        "incident investigation",
+        "memory forensics",
+        "disk forensics",
+        "autopsy",
+        "volatility"
+      ],
+      "authors": [
+        "carrier"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Reverse Engineering",
+      "priority": 105,
+      "keywords": [
+        "reverse engineering",
+        "reverse engineer",
+        "ida pro",
+        "ghidra",
+        "disassembly",
+        "assembly reversing",
+        "binary analysis"
+      ],
+      "authors": [
+        "eldad eilam",
+        "dennis yurichev"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Malware Analysis",
+      "priority": 105,
+      "keywords": [
+        "malware",
+        "virus",
+        "worm",
+        "trojan",
+        "ransomware",
+        "rootkit",
+        "malware analysis",
+        "malicious code"
+      ],
+      "authors": [
+        "sikorski",
+        "honig"
+      ]
+    },
+
+    {
+      "folder": "Cybersecurity/Cloud Security",
+      "priority": 95,
+      "keywords": [
+        "cloud security",
+        "aws security",
+        "azure security",
+        "gcp security",
+        "iam",
+        "zero trust",
+        "security in the cloud"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cybersecurity/Blue Team",
+      "priority": 95,
+      "keywords": [
+        "blue team",
+        "soc",
+        "security operations center",
+        "incident response",
+        "threat hunting",
+        "siem",
+        "splunk",
+        "elastic security",
+        "microsoft sentinel"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cybersecurity/Linux Security",
+      "priority": 95,
+      "keywords": [
+        "linux security",
+        "selinux",
+        "apparmor",
+        "linux hardening",
+        "unix security"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Cybersecurity/Mobile Security",
+      "priority": 90,
+      "keywords": [
+        "android security",
+        "ios security",
+        "mobile security",
+        "mobile penetration testing"
+      ],
+      "authors": []
+    }
+
+  ]
+}
