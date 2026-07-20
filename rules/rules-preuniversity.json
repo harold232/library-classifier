@@ -1,0 +1,378 @@
+{
+  "Pre-University": [
+    {
+      "folder": "Pre-University/Institutions/UNI",
+      "priority": 140,
+      "keywords": [
+        "cepre uni",
+        "cepreuni",
+        "examen uni",
+        "admision uni",
+        "admisión uni",
+        "solucionario uni",
+        "ciclo uni",
+        "universidad nacional de ingenieria",
+        "universidad nacional de ingeniería"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Institutions/UNMSM",
+      "priority": 140,
+      "keywords": [
+        "pre unmsm",
+        "preunmsm",
+        "cepreunmsm",
+        "san marcos",
+        "unmsm",
+        "examen san marcos",
+        "admision san marcos",
+        "admisión san marcos",
+        "solucionario san marcos"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Institutions/Other Universities",
+      "priority": 130,
+      "keywords": [
+        "cepreuna",
+        "cepreunalm",
+        "ceprevi",
+        "cepunt",
+        "cepre unsm",
+        "cepreunsm",
+        "cepre",
+        "examen de admision",
+        "examen de admisión",
+        "ingreso directo",
+        "prueba de seleccion",
+        "prueba de selección"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Academies/ADUNI and Cesar Vallejo",
+      "priority": 135,
+      "keywords": [
+        "aduni",
+        "cesar vallejo",
+        "césar vallejo",
+        "academia aduni",
+        "academia cesar vallejo",
+        "academia césar vallejo"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Academies/Trilce",
+      "priority": 135,
+      "keywords": [
+        "trilce",
+        "academia trilce",
+        "colegio trilce"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Academies/Pamer",
+      "priority": 135,
+      "keywords": [
+        "pamer",
+        "academia pamer"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Academies/Saco Oliveros",
+      "priority": 135,
+      "keywords": [
+        "saco oliveros",
+        "academia saco oliveros"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Academies/Other Academies",
+      "priority": 125,
+      "keywords": [
+        "academia raimondi",
+        "raimondi",
+        "raymondi",
+        "cbes",
+        "uniciencia",
+        "racso",
+        "rodo",
+        "lumbreras",
+        "cuzcano"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Mathematics/Arithmetic",
+      "priority": 120,
+      "keywords": [
+        "aritmetica",
+        "aritmética",
+        "numeracion",
+        "numeración",
+        "divisibilidad",
+        "razones y proporciones",
+        "porcentajes"
+      ],
+      "authors": [
+        "baldor"
+      ]
+    },
+    {
+      "folder": "Pre-University/Mathematics/Algebra",
+      "priority": 120,
+      "keywords": [
+        "algebra",
+        "álgebra",
+        "factorizacion",
+        "factorización",
+        "ecuaciones",
+        "inecuaciones",
+        "funciones",
+        "logaritmos",
+        "polinomios",
+        "matrices"
+      ],
+      "authors": [
+        "baldor"
+      ]
+    },
+    {
+      "folder": "Pre-University/Mathematics/Geometry",
+      "priority": 120,
+      "keywords": [
+        "geometria",
+        "geometría",
+        "triangulos",
+        "triángulos",
+        "cuadrilateros",
+        "cuadriláteros",
+        "circunferencia",
+        "geometria del espacio",
+        "geometría del espacio"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Mathematics/Trigonometry",
+      "priority": 120,
+      "keywords": [
+        "trigonometria",
+        "trigonometría",
+        "razones trigonometricas",
+        "razones trigonométricas",
+        "identidades trigonometricas",
+        "identidades trigonométricas",
+        "funciones trigonometricas",
+        "funciones trigonométricas"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Mathematics/Mathematical Reasoning",
+      "priority": 125,
+      "keywords": [
+        "razonamiento matematico",
+        "razonamiento matemático",
+        "raz. matematico",
+        "raz. matemático",
+        "aptitud matematica",
+        "aptitud matemática",
+        "planteo de ecuaciones",
+        "secuencias",
+        "analogias alfanumericas",
+        "analogías alfanuméricas"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Science/Physics",
+      "priority": 120,
+      "keywords": [
+        "fisica",
+        "física",
+        "cinematica",
+        "cinemática",
+        "dinamica",
+        "dinámica",
+        "estatica",
+        "estática",
+        "gravitacion",
+        "gravitación",
+        "optica",
+        "óptica"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Science/Chemistry",
+      "priority": 120,
+      "keywords": [
+        "quimica",
+        "química",
+        "reacciones quimicas",
+        "reacciones químicas",
+        "estequiometria",
+        "estequiometría",
+        "quimica organica",
+        "química orgánica"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Science/Biology",
+      "priority": 120,
+      "keywords": [
+        "biologia",
+        "biología",
+        "anatomia",
+        "anatomía",
+        "bioquimica",
+        "bioquímica",
+        "genetica",
+        "genética",
+        "ecologia",
+        "ecología"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/History",
+      "priority": 115,
+      "keywords": [
+        "historia del peru",
+        "historia del perú",
+        "historia universal",
+        "prehistoria",
+        "edad antigua",
+        "edad media",
+        "edad moderna",
+        "guerra fria",
+        "guerra fría",
+        "republica",
+        "república"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/Geography",
+      "priority": 115,
+      "keywords": [
+        "geografia",
+        "geografía",
+        "regiones naturales",
+        "ecorregiones",
+        "geografia del peru",
+        "geografía del perú"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/Literature",
+      "priority": 115,
+      "keywords": [
+        "literatura",
+        "literature",
+        "literatura peruana",
+        "literatura universal"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/Language",
+      "priority": 115,
+      "keywords": [
+        "lenguaje",
+        "lengua",
+        "gramatica",
+        "gramática",
+        "ortografia",
+        "ortografía",
+        "comprension lectora",
+        "comprensión lectora",
+        "razonamiento verbal"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/Philosophy and Logic",
+      "priority": 115,
+      "keywords": [
+        "filosofia",
+        "filosofía",
+        "logica",
+        "lógica",
+        "etica",
+        "ética"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/Psychology",
+      "priority": 115,
+      "keywords": [
+        "psicologia",
+        "psicología",
+        "psicologia pre",
+        "psicología pre"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Humanities/Economics and Civics",
+      "priority": 115,
+      "keywords": [
+        "economia",
+        "economía",
+        "educacion civica",
+        "educación cívica",
+        "ed civica",
+        "ed. civica",
+        "civica",
+        "cívica"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Admission Exams",
+      "priority": 150,
+      "keywords": [
+        "examen de admision",
+        "examen de admisión",
+        "solucionario",
+        "claves",
+        "prueba calificada",
+        "examen parcial",
+        "examen final",
+        "practica calificada",
+        "práctica calificada",
+        "semibeca",
+        "prueba de seleccion",
+        "prueba de selección"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Pre-University/Formulas and Compendiums",
+      "priority": 110,
+      "keywords": [
+        "formulario",
+        "formula",
+        "fórmula",
+        "compendio",
+        "guia cientifica",
+        "guía científica",
+        "temas selectos",
+        "resumen",
+        "repaso"
+      ],
+      "authors": []
+    }
+  ]
+}

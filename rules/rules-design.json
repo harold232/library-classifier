@@ -1,0 +1,105 @@
+{
+  "Design": [
+    {
+      "folder": "Design/UI UX",
+      "priority": 120,
+      "keywords": [
+        "ui",
+        "ux",
+        "user interface",
+        "user experience",
+        "wireframe",
+        "prototype",
+        "figma",
+        "adobe xd",
+        "interaction design",
+        "design system"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Design/Graphic Design",
+      "priority": 115,
+      "keywords": [
+        "graphic design",
+        "photoshop",
+        "illustrator",
+        "indesign",
+        "branding",
+        "logo",
+        "typography",
+        "layout",
+        "vector"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Design/3D and CAD",
+      "priority": 115,
+      "keywords": [
+        "autocad",
+        "solidworks",
+        "fusion 360",
+        "blender",
+        "3d modeling",
+        "cad",
+        "3d design",
+        "rendering"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Design/Web Design",
+      "priority": 115,
+      "keywords": [
+        "web design",
+        "responsive design",
+        "css design",
+        "bootstrap",
+        "tailwind",
+        "frontend design",
+        "html css"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Design/Animation and Video",
+      "priority": 110,
+      "keywords": [
+        "after effects",
+        "premiere pro",
+        "motion graphics",
+        "animation",
+        "video editing",
+        "davinci resolve",
+        "final cut"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Design/Typography and Color",
+      "priority": 105,
+      "keywords": [
+        "typography",
+        "fonts",
+        "typeface",
+        "color theory",
+        "color palette",
+        "visual hierarchy"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Design/General",
+      "priority": 100,
+      "keywords": [
+        "design",
+        "creative design",
+        "visual design",
+        "composition",
+        "design principles"
+      ],
+      "authors": []
+    }
+  ]
+}

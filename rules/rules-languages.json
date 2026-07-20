@@ -1,0 +1,204 @@
+{
+  "Languages": [
+    {
+      "folder": "Languages/English/Grammar",
+      "priority": 110,
+      "keywords": [
+        "english grammar",
+        "grammar in use",
+        "essential grammar",
+        "advanced grammar",
+        "grammar guide",
+        "english syntax",
+        "english verb",
+        "english tenses",
+        "english prepositions",
+        "english articles"
+      ],
+      "authors": [
+        "raymond murphy",
+        "martin hewings",
+        "betty azar",
+        "michael swan"
+      ]
+    },
+    {
+      "folder": "Languages/English/Vocabulary",
+      "priority": 105,
+      "keywords": [
+        "english vocabulary",
+        "vocabulary in use",
+        "vocabulary builder",
+        "english words",
+        "word power",
+        "phrasal verbs",
+        "idioms",
+        "collocations"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Speaking",
+      "priority": 105,
+      "keywords": [
+        "spoken english",
+        "english speaking",
+        "english conversation",
+        "conversational english",
+        "american english conversation",
+        "pronunciation",
+        "english pronunciation",
+        "accent training",
+        "speakout",
+        "top notch"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Writing",
+      "priority": 105,
+      "keywords": [
+        "english writing",
+        "writing skills",
+        "academic writing",
+        "essay writing",
+        "writing in english",
+        "business writing",
+        "technical writing"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Reading",
+      "priority": 100,
+      "keywords": [
+        "english reading",
+        "reading comprehension",
+        "reading skills",
+        "graded reader",
+        "english reader"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Listening",
+      "priority": 100,
+      "keywords": [
+        "english listening",
+        "listening comprehension",
+        "listening skills"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/General",
+      "priority": 95,
+      "keywords": [
+        "english for everyone",
+        "learn english",
+        "english course",
+        "english language",
+        "ingles",
+        "inglés",
+        "american english",
+        "british english"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Exams/TOEFL",
+      "priority": 120,
+      "keywords": [
+        "toefl",
+        "toefl ibt",
+        "test of english as a foreign language"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Exams/IELTS",
+      "priority": 120,
+      "keywords": [
+        "ielts",
+        "international english language testing system"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/English/Exams/Cambridge",
+      "priority": 120,
+      "keywords": [
+        "cambridge english",
+        "ket",
+        "pet",
+        "fce",
+        "cae",
+        "cpe",
+        "b2 first",
+        "c1 advanced",
+        "c2 proficiency"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/Dictionaries",
+      "priority": 100,
+      "keywords": [
+        "dictionary",
+        "english dictionary",
+        "bilingual dictionary",
+        "diccionario",
+        "thesaurus"
+      ],
+      "authors": [
+        "oxford",
+        "cambridge",
+        "longman",
+        "merriam webster",
+        "collins"
+      ]
+    },
+    {
+      "folder": "Languages/Spanish/Grammar",
+      "priority": 105,
+      "keywords": [
+        "gramática española",
+        "gramatica espanola",
+        "gramática de la lengua española",
+        "gramatica de la lengua espanola",
+        "sintaxis española",
+        "sintaxis espanola"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Languages/Spanish/Spelling",
+      "priority": 110,
+      "keywords": [
+        "ortografía",
+        "ortografia",
+        "ortografía de la lengua española",
+        "ortografia de la lengua espanola",
+        "acentuación",
+        "acentuacion"
+      ],
+      "authors": [
+        "real academia española",
+        "rae"
+      ]
+    },
+    {
+      "folder": "Languages/Spanish/Writing",
+      "priority": 100,
+      "keywords": [
+        "redacción",
+        "redaccion",
+        "escritura académica",
+        "escritura academica",
+        "comunicación escrita",
+        "comunicacion escrita"
+      ],
+      "authors": []
+    }
+  ]
+}

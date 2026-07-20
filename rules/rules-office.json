@@ -1,0 +1,114 @@
+{
+  "Office": [
+    {
+      "folder": "Office/Excel",
+      "priority": 120,
+      "keywords": [
+        "excel",
+        "microsoft excel",
+        "power query",
+        "power pivot",
+        "pivot table",
+        "vlookup",
+        "xlookup",
+        "lookup",
+        "excel formulas",
+        "excel dashboard",
+        "excel vba",
+        "macros",
+        "spreadsheet"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/Word",
+      "priority": 110,
+      "keywords": [
+        "word",
+        "microsoft word",
+        "word processing",
+        "document formatting",
+        "mail merge"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/PowerPoint",
+      "priority": 110,
+      "keywords": [
+        "powerpoint",
+        "microsoft powerpoint",
+        "presentation",
+        "presentation design",
+        "slides"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/Access",
+      "priority": 105,
+      "keywords": [
+        "access",
+        "microsoft access",
+        "access database"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/Outlook",
+      "priority": 105,
+      "keywords": [
+        "outlook",
+        "microsoft outlook",
+        "email management"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/OneNote",
+      "priority": 100,
+      "keywords": [
+        "onenote",
+        "microsoft onenote",
+        "digital notebook"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/Visio",
+      "priority": 110,
+      "keywords": [
+        "visio",
+        "microsoft visio",
+        "diagram",
+        "flowchart",
+        "network diagram",
+        "uml visio"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/Power BI",
+      "priority": 120,
+      "keywords": [
+        "power bi",
+        "powerbi",
+        "dax",
+        "business intelligence",
+        "power bi desktop"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Office/Project",
+      "priority": 105,
+      "keywords": [
+        "microsoft project",
+        "ms project",
+        "project scheduling",
+        "gantt"
+      ],
+      "authors": []
+    }
+  ]
+}

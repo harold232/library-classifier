@@ -1,0 +1,142 @@
+{
+  "Certifications": [
+    {
+      "folder": "Certifications/AWS",
+      "priority": 120,
+      "keywords": [
+        "aws certified",
+        "aws certification",
+        "solutions architect",
+        "developer associate",
+        "sysops",
+        "cloud practitioner",
+        "aws saa",
+        "aws sap",
+        "amazon web services"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Microsoft Azure",
+      "priority": 120,
+      "keywords": [
+        "azure certification",
+        "az-900",
+        "az-104",
+        "az-204",
+        "az-305",
+        "microsoft learn",
+        "azure administrator",
+        "azure developer"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Google Cloud",
+      "priority": 120,
+      "keywords": [
+        "google cloud certification",
+        "gcp certification",
+        "professional cloud architect",
+        "associate cloud engineer",
+        "google cloud"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Kubernetes",
+      "priority": 120,
+      "keywords": [
+        "cka",
+        "ckad",
+        "cks",
+        "certified kubernetes administrator",
+        "certified kubernetes application developer",
+        "kubernetes certification"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Cisco",
+      "priority": 120,
+      "keywords": [
+        "ccna",
+        "ccnp",
+        "ccie",
+        "cisco certification",
+        "routing and switching"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Linux",
+      "priority": 120,
+      "keywords": [
+        "rhcsa",
+        "rhce",
+        "lpic",
+        "linux+",
+        "red hat certification",
+        "linux professional institute"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Cybersecurity",
+      "priority": 120,
+      "keywords": [
+        "security+",
+        "comptia security+",
+        "cysa+",
+        "pentest+",
+        "ceh",
+        "oscp",
+        "cissp",
+        "ejpt",
+        "pnpt",
+        "gsec"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Scrum and Agile",
+      "priority": 115,
+      "keywords": [
+        "psm",
+        "csm",
+        "scrum master",
+        "professional scrum master",
+        "safe",
+        "safe agile",
+        "product owner",
+        "pspo"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Project Management",
+      "priority": 115,
+      "keywords": [
+        "pmp",
+        "capm",
+        "pmbok certification",
+        "project management professional",
+        "prince2"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Certifications/Oracle",
+      "priority": 115,
+      "keywords": [
+        "oracle certified",
+        "oca",
+        "ocp",
+        "oracle certification",
+        "java certification",
+        "oracle database certification"
+      ],
+      "authors": []
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "Hobbies": [
+    {
+      "folder": "Hobbies/Novels",
+      "priority": 120,
+      "keywords": [
+        "novel",
+        "novela",
+        "fiction",
+        "fantasy",
+        "science fiction",
+        "sci-fi",
+        "mystery",
+        "thriller",
+        "romance",
+        "historical fiction"
+      ],
+      "authors": [
+        "tolkien",
+        "rowling",
+        "orwell",
+        "asimov",
+        "sanderson",
+        "king",
+        "murakami",
+        "christie",
+        "doyle",
+        "verne"
+      ]
+    },
+    {
+      "folder": "Hobbies/History",
+      "priority": 110,
+      "keywords": [
+        "history",
+        "historia",
+        "world history",
+        "ancient history",
+        "military history"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Hobbies/Philosophy",
+      "priority": 110,
+      "keywords": [
+        "philosophy",
+        "filosofia",
+        "filosofía",
+        "ethics",
+        "stoicism",
+        "logic philosophy"
+      ],
+      "authors": [
+        "plato",
+        "aristotle",
+        "nietzsche",
+        "kant",
+        "descartes",
+        "marcus aurelius",
+        "seneca"
+      ]
+    },
+    {
+      "folder": "Hobbies/Psychology",
+      "priority": 110,
+      "keywords": [
+        "psychology",
+        "psicologia",
+        "psicología",
+        "cognitive psychology",
+        "behavior"
+      ],
+      "authors": [
+        "daniel kahneman",
+        "freud",
+        "jung",
+        "goleman"
+      ]
+    },
+    {
+      "folder": "Hobbies/Personal Development",
+      "priority": 110,
+      "keywords": [
+        "atomic habits",
+        "deep work",
+        "getting things done",
+        "productivity",
+        "habit",
+        "time management",
+        "self help",
+        "personal development",
+        "psychology of money"
+      ],
+      "authors": [
+        "james clear",
+        "cal newport",
+        "david allen",
+        "morgan housel",
+        "stephen covey"
+      ]
+    },
+    {
+      "folder": "Hobbies/Photography",
+      "priority": 100,
+      "keywords": [
+        "photography",
+        "camera",
+        "lightroom",
+        "photoshop photography",
+        "dslr",
+        "composition"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Hobbies/Music",
+      "priority": 100,
+      "keywords": [
+        "music",
+        "guitar",
+        "piano",
+        "music theory",
+        "composition",
+        "solfeo"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Hobbies/Drawing and Design",
+      "priority": 100,
+      "keywords": [
+        "drawing",
+        "sketch",
+        "illustration",
+        "painting",
+        "color theory"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Hobbies/Cooking",
+      "priority": 100,
+      "keywords": [
+        "cooking",
+        "cookbook",
+        "recipe",
+        "recipes",
+        "gastronomy",
+        "baking"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Hobbies/Travel",
+      "priority": 95,
+      "keywords": [
+        "travel",
+        "travelling",
+        "guide",
+        "lonely planet",
+        "tourism"
+      ],
+      "authors": []
+    },
+    {
+      "folder": "Hobbies/Comics and Manga",
+      "priority": 110,
+      "keywords": [
+        "manga",
+        "comic",
+        "comics",
+        "graphic novel",
+        "manhwa"
+      ],
+      "authors": []
+    }
+  ]
+}

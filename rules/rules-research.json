@@ -1,0 +1,168 @@
+{
+  "Research": [
+
+    {
+      "folder": "Research/Research Methodology",
+      "priority": 120,
+      "keywords": [
+        "research methodology",
+        "research methods",
+        "scientific method",
+        "investigacion",
+        "investigación",
+        "metodologia",
+        "metodología",
+        "research design",
+        "experimental design",
+        "qualitative research",
+        "quantitative research",
+        "mixed methods"
+      ],
+      "authors": [
+        "creswell",
+        "hernandez sampieri",
+        "kerlinger"
+      ]
+    },
+
+    {
+      "folder": "Research/Academic Writing",
+      "priority": 115,
+      "keywords": [
+        "academic writing",
+        "scientific writing",
+        "technical writing",
+        "writing research papers",
+        "paper writing",
+        "tesis",
+        "thesis",
+        "dissertation",
+        "scientific communication",
+        "research paper"
+      ],
+      "authors": [
+        "day",
+        "gastel",
+        "booth",
+        "swales"
+      ]
+    },
+
+    {
+      "folder": "Research/Literature Review",
+      "priority": 110,
+      "keywords": [
+        "literature review",
+        "systematic review",
+        "systematic literature review",
+        "mapping study",
+        "mapping",
+        "review protocol",
+        "meta analysis"
+      ],
+      "authors": [
+        "kitchenham",
+        "charters"
+      ]
+    },
+
+    {
+      "folder": "Research/Publication",
+      "priority": 110,
+      "keywords": [
+        "publish",
+        "publication",
+        "journal",
+        "conference paper",
+        "peer review",
+        "scientific publication",
+        "academic publishing"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Research/IEEE",
+      "priority": 120,
+      "keywords": [
+        "ieee",
+        "ieee format",
+        "ieee style",
+        "ieee citation",
+        "ieee referencing"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Research/ACM",
+      "priority": 120,
+      "keywords": [
+        "acm",
+        "acm format",
+        "acm style",
+        "acm digital library"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Research/LaTeX",
+      "priority": 120,
+      "keywords": [
+        "latex",
+        "tex",
+        "bibtex",
+        "overleaf",
+        "pdflatex",
+        "beamer",
+        "latex companion"
+      ],
+      "authors": [
+        "mittelbach",
+        "goossens"
+      ]
+    },
+
+    {
+      "folder": "Research/Citations",
+      "priority": 105,
+      "keywords": [
+        "apa",
+        "apa 7",
+        "apa style",
+        "mla",
+        "chicago style",
+        "citation",
+        "bibliography",
+        "reference management",
+        "zotero",
+        "mendeley",
+        "endnote"
+      ],
+      "authors": []
+    },
+
+    {
+      "folder": "Research/Statistics for Research",
+      "priority": 110,
+      "keywords": [
+        "research statistics",
+        "applied statistics",
+        "statistical methods",
+        "research analysis",
+        "hypothesis testing",
+        "anova",
+        "regression",
+        "spss",
+        "stata",
+        "r for research"
+      ],
+      "authors": [
+        "field",
+        "montgomery"
+      ]
+    }
+
+  ]
+}
