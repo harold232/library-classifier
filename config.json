@@ -1,5 +1,15 @@
 {
-    "Source": "D:\\Biblioteca",
+    "SourcePath": "D:\\Biblioteca",
+    "DestinationPath": "D:\\Library",
+
+    "RulesPath": ".\\rules",
+    "LogPath": ".\\logs",
+
     "Simulation": true,
-    "CreateFolders": true
-}
+    "Copy": false,
+    "Recurse": true,
+
+    "IncludeNonPdf": false,
+    "CreateFolders": true,
+    "UnmatchedFolder": "Archive/Unmatched"
+}   
